@@ -1,0 +1,19 @@
+{
+  "name": "unicorncore",
+  "version": "1.0.0",
+  "description": "Unicorns coin core",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uicorn",
+    "core",
+    "coins"
+  ],
+  "author": "Supardyke",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
